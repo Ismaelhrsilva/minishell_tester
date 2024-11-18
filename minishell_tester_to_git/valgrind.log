@@ -1,0 +1,6 @@
+==87486== Memcheck, a memory error detector
+==87486== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==87486== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==87486== Command: ../minishell
+==87486== Parent PID: 86764
+==87486== 
